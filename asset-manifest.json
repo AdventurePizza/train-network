@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/train-network/static/css/main.2a3a5cca.chunk.css",
+    "main.js": "/train-network/static/js/main.40b540a5.chunk.js",
+    "main.js.map": "/train-network/static/js/main.40b540a5.chunk.js.map",
+    "runtime-main.js": "/train-network/static/js/runtime-main.d9e03c2a.js",
+    "runtime-main.js.map": "/train-network/static/js/runtime-main.d9e03c2a.js.map",
+    "static/js/2.a93ffba8.chunk.js": "/train-network/static/js/2.a93ffba8.chunk.js",
+    "static/js/2.a93ffba8.chunk.js.map": "/train-network/static/js/2.a93ffba8.chunk.js.map",
+    "index.html": "/train-network/index.html",
+    "static/css/main.2a3a5cca.chunk.css.map": "/train-network/static/css/main.2a3a5cca.chunk.css.map",
+    "static/js/2.a93ffba8.chunk.js.LICENSE.txt": "/train-network/static/js/2.a93ffba8.chunk.js.LICENSE.txt",
+    "static/media/spinner.d99b4eae.svg": "/train-network/static/media/spinner.d99b4eae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e03c2a.js",
+    "static/js/2.a93ffba8.chunk.js",
+    "static/css/main.2a3a5cca.chunk.css",
+    "static/js/main.40b540a5.chunk.js"
+  ]
+}
