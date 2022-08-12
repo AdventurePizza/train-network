@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/train-network/static/css/main.2a3a5cca.chunk.css",
-    "main.js": "/train-network/static/js/main.6e057268.chunk.js",
-    "main.js.map": "/train-network/static/js/main.6e057268.chunk.js.map",
+    "main.js": "/train-network/static/js/main.f11b315c.chunk.js",
+    "main.js.map": "/train-network/static/js/main.f11b315c.chunk.js.map",
     "runtime-main.js": "/train-network/static/js/runtime-main.d9e03c2a.js",
     "runtime-main.js.map": "/train-network/static/js/runtime-main.d9e03c2a.js.map",
     "static/js/2.a93ffba8.chunk.js": "/train-network/static/js/2.a93ffba8.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d9e03c2a.js",
     "static/js/2.a93ffba8.chunk.js",
     "static/css/main.2a3a5cca.chunk.css",
-    "static/js/main.6e057268.chunk.js"
+    "static/js/main.f11b315c.chunk.js"
   ]
 }
